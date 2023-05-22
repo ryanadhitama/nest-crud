@@ -6,8 +6,7 @@
 
 ## Extension Visual Studio Code
 
-- Prettier - Code formatter
-- GitLens — Git supercharged
+- Rapid API Client
 
 ## How to Use
 
